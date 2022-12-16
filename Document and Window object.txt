@@ -1,0 +1,16 @@
+1.Write a blog on the Different between Documents & Window Objects
+
+DOCUMENTS
+	It represents any HTML document
+	It is loaded inside the window.
+	It is the object of window property
+	The document is part of BOM and DOM
+	Syntax = Document.propertyname;
+
+
+WINDOWS OBJECTS
+	It represents a browser window
+	It is the very first object that is loaded in the browser.
+	It is the object of the browser.
+	The window is part of BOM and not DOM
+Syntax = Window.propertyname;
